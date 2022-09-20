@@ -17,7 +17,7 @@ class Student:
         print("Time to work")
         self.progress +=0.12
         self.gladness -= 3
-        self.money += 5
+        self.money += 10
 
 
 
